@@ -22,7 +22,7 @@ Export the DataFrame as WeatherPy_Database.csv into the Weather_Database folder
 
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-![](/weather-data/ScreenShot_map.png)
+![](/weather_data/ScreenShot_map.png)
 
 ## Deliverable 3: Create a Travel Itinerary Map
 
